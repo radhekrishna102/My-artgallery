@@ -1,0 +1,20 @@
+html{
+    background-color: antiquewhite;
+}
+
+img{
+    border-radius: 11px;
+    border: 7px solid black;
+
+}
+
+html{
+    text-align-last: center;
+}
+
+h1{
+       font-size: 50px;
+       color: firebrick;
+       background-color: lawngreen;
+       border-radius: 30px;
+}
